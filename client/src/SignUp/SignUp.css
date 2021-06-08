@@ -1,0 +1,16 @@
+.centerDivSignUp{
+	/* border:1px solid black; */
+	width:320px;
+	height: 600px;
+	margin-top: 10px;
+	top: 20%;
+	left: 40%;
+	position: absolute;
+	margin-bottom:20px;
+}
+.centerDivSignUp h1{
+	margin-top: 0px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+

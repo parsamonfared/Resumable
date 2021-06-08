@@ -1,0 +1,10 @@
+.MuiCardActionArea-root {
+  display: block;
+  height: 40px;
+}
+
+.preview {
+  display: block;
+  height: 350px;
+  overflow: hidden;
+}

@@ -1,0 +1,46 @@
+.postResume {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+  }
+.header {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 100;
+    border: 1px solid blue;
+    padding: 15px 20px;
+  }
+
+  .header > h2 {
+    font-size: 20px;
+    font-weight: 800;
+  }
+  .resumes{
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+  }
+  .Title_input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+  }
+.Subtitle_input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+  }
+.Desc_input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    margin-bottom: 100px;
+  }
+.posts_empty{
+  text-align:center
+}

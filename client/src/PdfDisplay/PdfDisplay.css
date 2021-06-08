@@ -1,0 +1,15 @@
+.page {
+  display: inline-block;
+}
+
+::selection {
+  color: #000000;
+  background-color: #fff2ac;
+  /* background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%); */
+}
+
+#highlight {
+  color: black;
+  background-color: #fff2ac;
+  background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);
+}

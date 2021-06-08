@@ -1,0 +1,56 @@
+.highlight-sidebar {
+  overflow: auto;
+  color: rgb(255, 255, 255);
+  background: rgb(52, 58, 64);
+  float: left;
+  margin-bottom: -5000px;
+  padding-bottom: 5000px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 30vw;
+}
+
+.feedback-items {
+  list-style: "none";
+  padding: 0;
+}
+
+.highlight__image {
+  overflow: auto;
+  max-width: 300px;
+  border: 1px dashed;
+}
+
+.description {
+  padding: 15px;
+}
+
+.feedback-item-content {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.feedback-item:first-child {
+  padding: 15px;
+  cursor: pointer;
+  transition: background 140ms ease-in;
+  border-top: 1px solid rgb(54, 104, 112);
+}
+
+.feedback-item {
+  padding: 15px;
+  cursor: pointer;
+  transition: background 140ms ease-in;
+  border-bottom: 1px solid rgb(54, 104, 112);
+}
+
+.feedback-item:hover {
+  background: rgba(0, 255, 208, 0.09);
+}
+
+.feedback-item-image {
+  overflow: auto;
+  max-width: 300px;
+  border: 1px solid;
+}

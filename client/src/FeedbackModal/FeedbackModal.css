@@ -1,0 +1,16 @@
+.feedback-submit {
+  float: right;
+  padding-right: 15px;
+  padding-top: 10px;
+}
+
+.feedback-comment {
+  padding: 5px;
+}
+
+#feedback-textarea {
+  position: fixed;
+  height: 50px;
+  width: 150px;
+  resize: none;
+}

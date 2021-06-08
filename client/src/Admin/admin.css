@@ -1,0 +1,144 @@
+
+
+.landingPic1{
+    margin-top: 2px;
+    margin-left: 30px;
+    float: left;
+    width: 110px;
+    height: 80px;
+    padding: 0px;
+  }
+
+  #head{
+    margin-left: 30px;
+    color: #7c795d; 
+    font-family: 'Trocchi'; 
+    font-size: 45px; 
+    font-weight: normal; 
+    line-height: 48px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)), drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+  }
+  #gg{
+    position: relative;
+    float: right;
+    margin-right: 150px;
+  }
+  #lis{
+    flex: 1;
+  }
+  #head1{
+    position: absolute;
+    float: left;
+    margin-right: 100px;
+    color: #7c795d; 
+    font-family: 'Trocchi'; 
+    font-size: 45px; 
+    font-weight: normal; 
+    line-height: 48px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)), drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  }
+  .nav{
+    margin-left: 500px;
+  }
+  #car{
+    display: 'flex';
+    width: 300px;
+    height: 140px;
+  }
+  #car1{
+    display: 'flex';
+    width: 300px;
+    height: 140px;
+    margin-right: 120px;
+  }
+  #car3{
+    display: 'flex';
+    width: 300px;
+    height: 140px;
+    margin-left: 250px;
+  }
+  #car2{
+    display: 'flex';
+    width: 300px;
+    height: 140px;
+    
+  }
+  .tex{
+    margin-top: 200px;
+    margin-left: 200px;
+    padding: 100px;
+  }
+  .graphPic{
+    position: absolute;
+    height: 350px;
+    left: 510px;
+    right: 33px;
+    margin-top: 10px;
+    border: 2px dotted black;
+  }
+  .iconStyle{
+    display:inline;
+    margin-right: 50px;
+    float: right;
+  }
+ 
+#b{
+  background-color: #71A89E;
+  margin: 10px;
+  border: 1px solid #000000;
+  margin-top: 20px;
+}
+#users{
+  float: right;
+  margin-right: 50px;
+  
+}
+
+.container {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased !important;
+  color: #222;
+  margin: auto;
+  width: 400px;
+}
+
+.footer {
+  margin: 50px 10px 0 10px;
+  padding: 10px;
+  border-top: #ddd solid 1px;
+}
+
+
+
+.react-scrollable-list {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 150px;
+  width: 250px;
+  overflow-y: scroll;
+  border: #ddd solid 1px;
+}
+
+.react-scrollable-list-item {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 30px;
+  padding: 5px;
+  background-color: #f2f2f2;
+  border-bottom: #ddd solid 1px;
+  pointer-events: none;
+}
+.feedback-box {
+
+  float: right;
+  top: 20px;
+  margin-top: 5px;
+  max-width: 500px;
+  height: 50vh;
+  overflow-y: auto;
+}

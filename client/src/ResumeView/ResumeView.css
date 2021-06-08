@@ -1,0 +1,63 @@
+#resume-image {
+  float: left;
+  /* height: 722px; */
+  /* width: 800px; */
+  user-select: none;
+  height: 700px;
+  width: 60%;
+}
+#resume-title {
+  margin-left: 100px;
+  margin-bottom: 40px;
+}
+#resume-header {
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-bottom: 20px;
+}
+#resume-button {
+  float: left;
+}
+
+#comment-text-area {
+  width: 100%;
+}
+.border-box {
+  border: 1px solid black;
+  margin-top: 30px;
+  margin-left: 100px;
+  margin-bottom: 10px;
+  /* max-width: 500px; */
+}
+#photo {
+  height: 600px;
+  width: 500px;
+}
+.pp {
+  padding: 20px;
+}
+.hh {
+  margin-top: 10px;
+  margin-left: 100px;
+}
+
+.feedback-box {
+  float: right;
+  top: 85px;
+  margin-top: 70px;
+  margin-right: 150px;
+  max-width: 500px;
+  height: 63vh;
+  overflow-y: auto;
+}
+
+.feedback-add-section {
+  float: right;
+  margin-right: 139px;
+  margin-top: 20px;
+  width: 495px;
+}
+
+.feedback-add-buttons {
+  margin-bottom: 20px;
+}
